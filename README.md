@@ -6,4 +6,4 @@
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/opvbed/).
 - Pronouns: he/him.
 
-![naruto sheinen goroshi] (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9iNmhzZ21jY2szN3J1dHlqc2Jjc2VtM3BjcWRxN2w1ZnZoZHI0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Do5GRTYRIhSFy/giphy.gif)
+![naruto sheinen goroshi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW85cjd0OTBsNjJsbzJucDMxOWk2dWM2MnN3bmh1NzV0ZXA4OHVkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/esj9GdT1FB1mw/giphy.gif)
