@@ -1,4 +1,4 @@
-## Hello World! I'm Obed Pakpahan👋
+## Hey there! I'm Obed Pakpahan👋
 
 ![Obed Pakpahan](img/wall-06.webp)
 
