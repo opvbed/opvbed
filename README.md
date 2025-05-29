@@ -1,6 +1,6 @@
 ## Hey there! I'm Obed Pakpahan👋
 
-![Obed Pakpahan](img/wall-06.webp)
+![Obed Pakpahan](img/github-header-image.png)
 
 - I'm currently learning Web Development (Back-End, Front-End, UI/UX Design).
 - A Student and Worker.
