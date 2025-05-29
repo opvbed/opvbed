@@ -1,6 +1,7 @@
-## Hello World! 👋
+## Hello World! I'm Obed Pakpahan👋
 
-### I am Obed Pakpahan
+![Obed Pakpahan](img/wall-06.webp)
+
 - I'm currently learning Web Development (Back-End, Front-End, UI/UX Design).
 - A Student and Worker.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/opvbed/).
